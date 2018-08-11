@@ -2,7 +2,7 @@
 layout: post
 title: 大规模数据的相似度计算：LSH算法
 key: 10002
-tags: 推荐系统,协同过滤,Min-Hashing,LSH,局部敏感哈希
+tags: 推荐系统 协同过滤 Min-Hashing LSH 局部敏感哈希
 category: algorithm
 date: 2018-08-11 19:42:00 +08:00
 modify_date: 2018-08-11 19:42:00 +08:00
