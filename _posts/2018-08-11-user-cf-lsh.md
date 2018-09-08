@@ -29,9 +29,9 @@ $$ Jaccard(A,B) = \frac{c}{a+b} $$
 
 如何得到这样的映射呢？我们现将用户A、B用物品向量的形式表现如下
 
-<div align=center>
+<center>
 <img src="https://raw.githubusercontent.com/febtree/febtree.github.io/master/_posts/img/MinHashSample.jpg" alt="MinHashSample">
-</div>
+</center>
 
 其中$i_1$到$i_n$表示n个物品
 
