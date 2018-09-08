@@ -28,7 +28,9 @@ $$ Jaccard(A,B) = \frac{c}{a+b} $$
 当a，b的值较大的话，计算Jaccard相似度的复杂度也是线性增长的，如何去减小这个计算复杂度就是MinHash想要去解决的问题。简单来说，MinHash所做的事情就是：**将向量A、B映射到一个低维空间，并且近似保持A、B之间的相似度。**
 
 如何得到这样的映射呢？我们现将用户A、B用物品向量的形式表现如下
-<center>![](https://raw.githubusercontent.com/febtree/febtree.github.io/master/_posts/img/MinHashSample.jpg)</center>
+
+![](https://raw.githubusercontent.com/febtree/febtree.github.io/master/_posts/img/MinHashSample.jpg)
+
 其中$i_1$到$i_n$表示n个物品
 
 
